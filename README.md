@@ -1,2 +1,2 @@
 # SchoolWorker_Management
-Manage the workers' information and salary working in a secondary school ( Using mySQLfor database )
+Manage the workers' information and salary working in a secondary school ( Using mySQLfor database + complete software interface )
